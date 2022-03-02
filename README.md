@@ -36,9 +36,9 @@
 * Nuit dans le Magne (Gérolimenas ? Limeni ?)
 * 19 avril
     * Journée farniente dans le Magne
-* Nuit dans le Magne (Gérolimenas ? Limeni ?) ou sur la route de Bassae ?
-* 20 avril
     * route vers Bassae (2h de route)
+* Nuit autour de Bassae
+* 20 avril
     * Visite du temple d'Apollon
     * route vers Olympie (1h30 de route)
 * Nuit à Olympie
