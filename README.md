@@ -40,7 +40,7 @@
 * 20 avril
     * Visite du temple d'Apollon
     * **route vers Olympie (1h30 de route)**
-* Nuit à Olympie
+* Nuit à Olympie [[exemple d'hotel bien placé](https://www.booking.com/hotel/gr/europahotel.fr.html)
 * 21 avril
     * Olympie (visite 15 du guide p.218)
     * **route vers Tourlida (2h)**
