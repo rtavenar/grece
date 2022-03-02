@@ -10,7 +10,7 @@
 * 13 avril
     * arrivée du vol à 18h
     * se poser à l'hôtel et aller prendre un repas dans le quartier, se balader
-* Nuit à Athènes
+* Nuit à Athènes [[exemple d'appart-hotel vers l'Acropole](https://www.booking.com/hotel/gr/athens-backpackers-and-studios.fr.html)]
 * 14 avril
     * matin : Acropole le plus tôt possible (visite 1 p.36), 
     * midi : repas au restaurant du musée (vue incroyable)
@@ -19,8 +19,8 @@
 * Nuit à Athènes
 * 15 avril
     * **route vers Épidaure (2h)**
-    * journée sur place (visite 8 p.120) avec un crochet par la plage de Vatsalakia (fin de journée + repas du soir ?)
-    * après le repas : **route pour Nauplie (30min ?)**
+    * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
+    * après le repas : **route pour Nauplie (40min)**
 * Nuit à Nauplie
 * 16 avril
     * Mycène + Nauplie (visite 7 p.104)
@@ -50,6 +50,6 @@
     * Delphes (visite 18 du guide p.260)
 * Nuit à Delphes (ou Galaxidie ?)
 * 23 avril
-    * **route pour Athènes (2h?)**, balade dans la ville
+    * **route pour Athènes (2h30-2h50)**, balade dans la ville
     * rendre la voiture (à l'aéroport ?)
     * vol à 17h (être à 15h max à l'aéroport)
