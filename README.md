@@ -36,7 +36,7 @@
 * 19 avril
     * Journée farniente dans le Magne
     * **route vers Bassae (2h de route)**
-* Nuit autour de Bassae
+* Nuit autour de Bassae [[hotel recommandé dans le guide](https://abeliona-retreat.com/fr/)]
 * 20 avril
     * Visite du temple d'Apollon
     * **route vers Olympie (1h30 de route)**
