@@ -29,6 +29,7 @@
 * 17 avril
     * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164)
     * **route vers Gerolimenas (1h30)**
+      * s'arrêter sur le chemin pour se balader sur la côte vers Kardamyli ? 
 * Nuit dans le Magne (Gérolimenas ? Limeni ?)
 * 18 avril
     * Magne : Plage d'Almiros, mini-rando au Cap Tenare
@@ -40,6 +41,7 @@
 * 20 avril
     * Visite du temple d'Apollon
     * **route vers Olympie (1h30 de route)**
+      * l'alternative serait de sauter Olympie pour avoir un jour de + dans le Magne
 * Nuit à Olympie [[exemple d'hotel bien placé](https://www.booking.com/hotel/gr/europahotel.fr.html)]
 * 21 avril
     * Olympie (visite 15 du guide p.218)
