@@ -1,18 +1,14 @@
 # Voyage en Grèce
 
-## Trajet en avion
+## Possibles jours bonus
 
-* Arrivée à Athènes le 13 avril à 18h
-* Départ d'Athènes le 23 avril à 17h
-
-## Jour par jour
-
-Possibles jours bonus :
 * Marathonas + plage de Schinias (besoin d'une voiture, proche d'Athènes)
 * Rajouter un jour de farniente dans le Magne (et du coup dormir là-bas plutôt qu'à Mystra) ?
 
-Planning
+## Planning jour par jour 
+
 * 13 avril
+    * arrivée du vol à 18h
     * se poser à l'hôtel et aller prendre un repas dans le quartier, se balader
 * 14 avril
     * matin : Acropole le plus tôt possible (visite 1 p.36), 
@@ -43,3 +39,4 @@ Planning
 * 23 avril
     * route pour Athènes, balade dans la ville
     * rendre la voiture (à l'aéroport ?)
+    * vol à 17h (être à 15h max à l'aéroport)
