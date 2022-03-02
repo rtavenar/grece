@@ -24,9 +24,9 @@
 * Nuit à Nauplie
 * 16 avril
     * Mycène + Nauplie (visite 7 p.104)
-* Nuit à Nauplie
-* 17 avril
     * **route vers Mystra (1h50)**
+* Nuit à Mystra
+* 17 avril
     * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164)
     * **route vers Gerolimenas (1h30)**
 * Nuit dans le Magne (Gérolimenas ? Limeni ?)
