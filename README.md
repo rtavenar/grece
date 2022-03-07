@@ -10,13 +10,13 @@
 * 13 avril
     * arrivée du vol à 18h
     * se poser à l'hôtel et aller prendre un repas dans le quartier, se balader
-* Nuit à Athènes [[exemple d'appart-hotel vers l'Acropole](https://www.booking.com/hotel/gr/athens-backpackers-and-studios.fr.html)]
+* Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * 14 avril
     * matin : Acropole le plus tôt possible (visite 1 p.36), 
     * midi : repas au restaurant du musée (vue incroyable)
     * après-midi : temple de Zeus olympien et stade des Panathénées
     * soirée : aller voir le coucher de soleil sur le mont Lycabette
-* Nuit à Athènes
+* Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * 15 avril
     * **route vers Épidaure (2h)**
     * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
