@@ -4,6 +4,10 @@
 
 * Marathonas + plage de Schinias (besoin d'une voiture, proche d'Athènes)
 
+## Divers
+
+* [ ] location voiture : faire un virement de 100E
+
 ## Planning jour par jour 
 
 * ☀️ 13 avril
