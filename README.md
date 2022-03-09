@@ -18,7 +18,7 @@
     * soirée : aller voir le coucher de soleil sur le mont Lycabette
 * Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * 15 avril
-    * **route vers Épidaure (2h)**
+    * Voiture déposée à l'hôtel (Progress Car Rentals) vers 8h, puis **route vers Épidaure (2h)**
     * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
     * après le repas : **route pour Nauplie (40min)**
 * Nuit à Nauplie
@@ -53,5 +53,5 @@
 * Nuit à Delphes (ou Galaxidie ?)  [[exemple de camping avec bungalows](https://apolloncamping.gr/fr/)]
 * 23 avril
     * **route pour Athènes (2h30-2h50)**, balade dans la ville
-    * rendre la voiture (à l'aéroport ?)
-    * vol à 17h (être à 15h max à l'aéroport)
+    * être à 15h max à l'aéroport, rendre la voiture au terminal des départs
+    * vol à 17h
