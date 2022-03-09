@@ -20,8 +20,8 @@
 * ☀️ 15 avril
     * 🚗 Voiture déposée à l'hôtel (Progress Car Rentals) vers 8h, puis route vers Épidaure (2h)
     * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
-    * après le repas : 🚗 route pour Nauplie (40min)
-* 🌃 Nuit à Nauplie
+    * après le repas : 🚗 route pour Nauplie (40min) ?
+* 🌃 Nuit à Nauplie ou à Palaia Epidavros [[exemple d'hôtel qui semble top pour 90E](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html)]
 * ☀️ 16 avril
     * Mycène + Nauplie (visite 7 p.104)
     * 🚗 route vers Mystra (1h50)
