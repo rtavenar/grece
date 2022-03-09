@@ -22,7 +22,7 @@
     * après le repas : 🚗 route pour Nauplie (40min) ?
 * 🌃 Nuit à Nauplie ou à Palaia Epidavros [[exemple d'hôtel qui semble top pour 90E (annulable)](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html)]
 * ☀️ 16 avril
-    * Nauplie 🚗 (25min) Mycène (visite 7 p.104)
+    * Nauplie 🚗 (25min) Mycène (visite 7 p.104) ou l'un des deux seulement
     * 🚗 route vers Mystra (1h40)
 * 🌃 Nuit à Mystra [[duplex dans maison d'hôtes pour 150E petit déjeuner compris (annulable)](https://www.booking.com/hotel/gr/arxontiko-taygeti.fr.html)]
 * ☀️ 17 avril
