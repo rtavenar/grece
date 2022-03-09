@@ -1,9 +1,8 @@
 # Voyage en Grèce
 
-## Possibles jours bonus
+## Possible jour bonus
 
-* [ ] Marathonas + plage de Schinias (besoin d'une voiture, proche d'Athènes)
-* [x] Rajouter un jour de farniente dans le Magne (et du coup dormir là-bas plutôt qu'à Mystra) ?
+* Marathonas + plage de Schinias (besoin d'une voiture, proche d'Athènes)
 
 ## Planning jour par jour 
 
@@ -30,7 +29,7 @@
     * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164)
     * 🚗 route vers Gerolimenas (1h30)
       * s'arrêter sur le chemin pour se balader sur la côte vers Kardamyli ? 
-* 🌃 Nuit dans le Magne (Gérolimenas ? Limeni ?)
+* 🌃 Nuit dans le Magne (Gérolimenas ? Limeni ?) [[hôtel très bien situé à Gerolimenas, les contacter pour savoir si on pourrait dormir à 5 dans une chambre ?](https://www.booking.com/hotel/gr/akrotainaritis.fr.html)]
 * ☀️ 18 avril
     * Magne : Plage d'Almiros, mini-rando au Cap Tenare
 * 🌃 Nuit dans le Magne (Gérolimenas ? Limeni ?)
