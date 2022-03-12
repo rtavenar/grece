@@ -23,12 +23,12 @@
 * ☀️ 15 avril
     * 🚗 Voiture déposée à l'hôtel (Progress Car Rentals) vers 8h, puis route vers Épidaure (2h)
     * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
-    * après le repas : 🚗 route pour Nauplie (40min) ?
-* 🌃 Nuit à Nauplie ou à Palaia Epidavros [[exemple d'hôtel qui semble top pour 90E (annulable)](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html)]
+* 🌃 Nuit à Palaia Epidavros [[hôtel réservé (annulable)](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html)]
 * ☀️ 16 avril
+    * 🚗 route pour Nauplie (40min)
     * Nauplie 🚗 (25min) Mycène (visite 7 p.104) ou l'un des deux seulement
     * 🚗 route vers Mystra (1h40)
-* 🌃 Nuit à Mystra [[duplex dans maison d'hôtes pour 150E petit déjeuner compris (annulable)](https://www.booking.com/hotel/gr/arxontiko-taygeti.fr.html)]
+* 🌃 Nuit à Mystra [[duplex dans maison d'hôtes réservé (annulable)](https://www.booking.com/hotel/gr/arxontiko-taygeti.fr.html)]
 * ☀️ 17 avril
     * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164)
     * 🚗 route vers Gerolimenas (1h30)
