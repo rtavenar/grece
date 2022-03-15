@@ -6,7 +6,8 @@
 
 ## Divers
 
-* [ ] location voiture : faire un virement de 100E
+* location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (100 Euros payés, restent 485 Euros, annulable)
+  * leur donner l'adresse de l'hôtel
 
 ## Planning jour par jour 
 
@@ -21,7 +22,7 @@
     * soirée : aller voir le coucher de soleil sur le mont Lycabette
 * 🌃 Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * ☀️ 15 avril
-    * 🚗 Voiture déposée à l'hôtel (Progress Car Rentals) vers 8h, puis route vers Épidaure (2h)
+    * 🚗 Voiture déposée à l'hôtel (par Progress Car Rentals) vers 8h, puis route vers Épidaure (2h)
     * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
 * 🌃 Nuit à Palaia Epidavros [[hôtel réservé (annulable)](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html)]
 * ☀️ 16 avril
