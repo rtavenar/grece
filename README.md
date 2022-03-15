@@ -34,10 +34,10 @@
     * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164)
     * 🚗 route vers Gerolimenas (1h30)
       * s'arrêter sur le chemin pour se balader sur la côte vers Kardamyli ? 
-* 🌃 Nuit dans le Magne (Gérolimenas ? Limeni ?) [[hôtel très bien situé à Gerolimenas, les contacter pour savoir si on pourrait dormir à 5 dans une chambre ?](https://www.booking.com/hotel/gr/akrotainaritis.fr.html)]
+* 🌃 Nuit dans le Magne (Karavostasi) [[hôtel réservé par mail (Aude)](https://www.booking.com/hotel/gr/elixerion-elixirion.fr.html)]
 * ☀️ 18 avril
     * Magne : Plage d'Almiros, mini-rando au Cap Tenare
-* 🌃 Nuit dans le Magne (Gérolimenas ? Limeni ?)
+* 🌃 Nuit dans le Magne (Karavostasi) [[hôtel réservé par mail (Aude)](https://www.booking.com/hotel/gr/elixerion-elixirion.fr.html)]
 * ☀️ 19 avril
     * Journée farniente dans le Magne
     * 🚗 route vers Bassae (2h de route)
