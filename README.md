@@ -31,11 +31,11 @@
 * 🌃 Nuit à Mystra [[duplex dans maison d'hôtes réservé (annulable)](https://www.booking.com/hotel/gr/arxontiko-taygeti.fr.html)]
 * ☀️ 17 avril
     * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164)
-    * 🚗 route vers Gerolimenas (1h30)
+    * 🚗 route vers Karavostasi (1h)
       * s'arrêter sur le chemin pour se balader sur la côte vers Kardamyli ? 
 * 🌃 Nuit dans le Magne (Karavostasi) [[hôtel réservé par mail (Aude)](https://www.booking.com/hotel/gr/elixerion-elixirion.fr.html)]
 * ☀️ 18 avril
-    * Magne : Plage d'Almiros, mini-rando au Cap Tenare
+    * 🚗 route vers Plage d'Almiros, mini-rando au Cap Tenare (1h)
 * 🌃 Nuit dans le Magne (Karavostasi) [[hôtel réservé par mail (Aude)](https://www.booking.com/hotel/gr/elixerion-elixirion.fr.html)]
 * ☀️ 19 avril
     * Journée farniente dans le Magne
