@@ -22,7 +22,7 @@
     * soirée : aller voir le coucher de soleil sur le mont Lycabette
 * 🌃 Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * ☀️ 15 avril
-    * 🚗 Voiture déposée à l'hôtel (par Progress Car Rentals) vers 8h, puis route vers Épidaure (2h)
+    * 🚗 Voiture déposée à l'hôtel (par Progress Car Rentals, [confirmation de réservation](<./PROGRESS CAR RENTAL- CONFIRMATION VOUCHER.pdf>)) vers 8h, puis route vers Épidaure (2h)
     * journée sur place (visite 8 p.120) avec un crochet par la plage de Votsalakia, vers Palaia Epidavros (fin de journée + repas du soir ?)
 * 🌃 Nuit à Palaia Epidavros [[hôtel réservé (annulable)](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html)]
 * ☀️ 16 avril
