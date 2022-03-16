@@ -7,7 +7,6 @@
 ## Divers
 
 * location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (100 Euros payés, restent 485 Euros, annulable)
-  * leur donner l'adresse de l'hôtel
 
 ## Planning jour par jour 
 
