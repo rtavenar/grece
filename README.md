@@ -44,7 +44,6 @@
 * ☀️ 20 avril
     * Visite du temple d'Apollon
     * 🚗 route vers Olympie (1h30 de route)
-      * l'alternative serait de sauter Olympie pour avoir un jour de + dans le Magne (3h15 de route pour aller à Athènes tout de même...)
 * 🌃 Nuit à Olympie [[exemple d'hotel bien placé](https://www.booking.com/hotel/gr/europahotel.fr.html)] [[exemple hotel pas trop cher](https://www.booking.com/hotel/gr/bacchus.fr.html?aid=304142&label=gen173rf-1FCAsoXEILZXVyb3BhaG90ZWxIDVgDaE2IAQGYAQ24AQfIAQ3YAQHoAQH4AQKIAgGiAgpnaXRodWIuY29tqAIDuALZkrmRBsACAdICJDcwNDgzMjIyLWMwOTEtNDA5Ny1iM2Y1LWY5NmQ0MjYxY2IwMNgCBeACAQ&sid=453d0b941566989da192fcc3796a6f63&age=12&all_sr_blocks=19001005_224275504_0_1_0&checkin=2022-04-19&checkout=2022-04-20&dest_id=-814535&dest_type=city&dist=0&group_adults=2&group_children=1&hapos=3&highlighted_blocks=19001005_224275504_0_1_0&hpos=3&matching_block_id=19001005_224275504_0_1_0&no_rooms=2&req_adults=2&req_age=12&req_children=1&room1=A&room2=A%2C12&sb_price_type=total&sr_order=popularity&sr_pri_blocks=19001005_224275504_0_1_0__12450&srepoch=1647200620&srpvid=d13c8ab5ac3701d5&type=total&ucfs=1&activeTab=main)]
 * ☀️ 21 avril
     * Olympie (visite 15 du guide p.218)
