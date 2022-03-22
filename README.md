@@ -40,7 +40,7 @@
 * ☀️ 19 avril
     * Journée farniente dans le Magne
     * 🚗 route vers Bassae (2h de route)
-* 🌃 Nuit autour de Bassae [[hotel recommandé dans le guide](https://abeliona-retreat.com/fr/)][[hotel bien placé mais pas de résa sur booking (mail envoyé)](https://www.booking.com/hotel/gr/archontiko-andritsena.fr.html#map_closed)]
+* 🌃 Nuit autour de Bassae [[hotel](https://www.booking.com/hotel/gr/petra-thea-villa-karytaina.fr.html?aid=304142;label=gen173rf-1FCAsoXEILZXVyb3BhaG90ZWxIDVgDaE2IAQGYAQ24AQfIAQ3YAQHoAQH4AQKIAgGiAgpnaXRodWIuY29tqAIDuALZkrmRBsACAdICJDcwNDgzMjIyLWMwOTEtNDA5Ny1iM2Y1LWY5NmQ0MjYxY2IwMNgCBeACAQ;sid=8fb0bb9d076ae5b5aaafb62bcfa4bd3e;checkin=2022-04-19;checkout=2022-04-20;srpvid=ab4f5552baf40028&)]
 * ☀️ 20 avril
     * Visite du temple d'Apollon
     * 🚗 route vers Olympie (1h30 de route)
