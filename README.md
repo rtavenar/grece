@@ -48,7 +48,7 @@
 * ☀️ 21 avril
     * Olympie (visite 15 du guide p.218)
     * 🚗 route vers Tourlida (2h)
-* 🌃 Nuit vers Tourlida [[hotel recommandé dans le guide](https://www.booking.com/hotel/gr/socrates-organic-village-wild-ollive.fr.html)]
+* 🌃 Nuit vers Tourlida [[hotel réservé](https://www.booking.com/hotel/gr/socrates-organic-village-wild-ollive.fr.html)]
 * ☀️ 22 avril
     * 🚗 route vers Delphes (2h)
     * Delphes (visite 18 du guide p.260)
