@@ -48,11 +48,11 @@
 * ☀️ 21 avril
     * Olympie (visite 15 du guide p.218)
     * 🚗 route vers Tourlida (2h)
-* 🌃 Nuit vers Tourlida [[hôtel réservé](https://www.booking.com/hotel/gr/socrates-organic-village-wild-ollive.fr.html)]
+* 🌃 Nuit à Mesolongion [[hôtel réservé](https://www.booking.com/hotel/gr/socrates-organic-village-wild-ollive.fr.html)]
 * ☀️ 22 avril
     * 🚗 route vers Delphes (2h)
     * Delphes (visite 18 du guide p.260)
-* 🌃 Nuit à Delphes (ou Galaxidie ?)  [[bungalow réservé](https://apolloncamping.gr/fr/)]
+* 🌃 Nuit à Delphes  [[bungalow réservé](https://apolloncamping.gr/fr/)]
 * ☀️ 23 avril
     * 🚗 route pour Athènes (2h30-2h50), balade dans la ville
     * être à 15h max à l'aéroport, 🚗 rendre la voiture au terminal des départs
