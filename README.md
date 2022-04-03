@@ -7,6 +7,7 @@
 ## Divers
 
 * location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (100 Euros payés, restent 485 Euros, annulable)
+* Parking aéroport CDG : Parking PAB, code 836387V
 
 ## Planning jour par jour 
 
