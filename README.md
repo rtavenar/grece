@@ -1,9 +1,5 @@
 # Voyage en Grèce
 
-## Possible jour bonus
-
-* Marathonas + plage de Schinias (besoin d'une voiture, proche d'Athènes)
-
 ## Divers
 
 * location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (100 Euros payés, restent 485 Euros, annulable)
