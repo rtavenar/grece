@@ -15,10 +15,10 @@
     * arrivée du vol à 18h
     * se poser à l'hôtel et aller prendre un repas dans le quartier, se balader
 * 🌃 Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
-* ☀️ 14 avril
-    * matin : Acropole le plus tôt possible (visite 1 p.36), 
+* ☀️ 14 avril 
+    * matin : ballde puis visite du musée de l'Acropole
     * midi : repas au restaurant du musée (vue incroyable)
-    * après-midi : temple de Zeus olympien et stade des Panathénées
+    * après-midi : Acropole (visite guidée Alternative Athens réservée pour 14h45, entrées à acheter sur place)
     * soirée : aller voir le coucher de soleil sur le mont Lycabette
 * 🌃 Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * ☀️ 15 avril
