@@ -8,7 +8,7 @@
 ## Planning jour par jour 
 
 * ☀️ 13 avril
-    * arrivée du vol à 18h
+    * arrivée du vol à 18h, taxi réservé via WelcomePickups au nom de Aude Tavenard (cf mail)
     * se poser à l'hôtel et aller prendre un repas dans le quartier, se balader
 * 🌃 Nuit à Athènes [[appart réservé](https://www.booking.com/hotel/gr/hestia-ippokratous-35.fr.html)]
 * ☀️ 14 avril 
