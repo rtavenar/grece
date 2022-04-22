@@ -41,16 +41,19 @@
 * ☀️ 20 avril
     * Visite du temple d'Apollon
     * 🚗 route vers Olympie (1h30 de route)
-* 🌃 Nuit à Olympie [[hôtel réservé (cf mails Aude)](https://www.booking.com/hotel/gr/leonidaion-guesthouse.fr.html)]
+* 🌃 Nuit à Olympie [[hôtel réservé (cf mails Aude)](https://www.booking.com/hotel/gr/leonidaion-guesthouse.fr.html), à recommander, apparemment avec rooftop ultra clean]
 * ☀️ 21 avril
     * Olympie (visite 15 du guide p.218)
+    * On a fait la visite du site avec 3 casques de réalité virtuelle de [[Olympia back in time](https://www.olympiabackintime.com/our-service.html)] , c'était sympa sans être indispensable
+    * Mangé 2 fois à la [[taverne Orestis](https://www.tripadvisor.fr/Restaurant_Review-g189487-d10283105-Reviews-Taverna_Orestis-Olympia_Elis_Region_West_Greece.html), très bon rapport qualité prix] 
     * 🚗 route vers Tourlida (2h)
-* 🌃 Nuit à Mesolongion [[hôtel réservé](https://www.booking.com/hotel/gr/socrates-organic-village-wild-ollive.fr.html)]
+    * repas du soir au Restaurant Tourlida, endroit charmant avec la vue sur le petit port
+* 🌃 Nuit à Mesolongion [[hôtel réservé](https://www.booking.com/hotel/gr/socrates-organic-village-wild-ollive.fr.html), très joli endroit au milieu d'une oliveraie]
 * ☀️ 22 avril
     * 🚗 route vers Delphes (2h)
     * Delphes (visite 18 du guide p.260)
     * Mangé un bon sandwich chez [[Dionysos](https://www.tripadvisor.fr/Restaurant_Review-g189408-d2354567-Reviews-Dionysios_Souvlaki_Gyro_Shop-Delphi_Phocis_Region_Central_Greece.html)] 
-* 🌃 Nuit à Delphes  [[bungalow réservé](https://apolloncamping.gr/fr/)], à ne pas recommander 
+* 🌃 Nuit à Delphes  [[bungalow réservé](https://apolloncamping.gr/fr/), à ne pas recommander] 
 * ☀️ 23 avril
     * 🚗 route pour Athènes (2h30-2h50), balade dans la ville
     * être à 15h max à l'aéroport, 🚗 rendre la voiture au terminal des départs
