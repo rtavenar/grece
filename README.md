@@ -41,7 +41,7 @@
 * ☀️ 20 avril
     * Visite du temple d'Apollon
     * 🚗 route vers Olympie (1h30 de route)
-* 🌃 Nuit à Olympie [[hôtel réservé (cf mails Aude)](https://www.booking.com/hotel/gr/leonidaion-guesthouse.fr.html), à recommander, apparemment avec rooftop ultra clean]
+* 🌃 Nuit à Olympie [[hôtel réservé (cf mails Aude)](https://www.booking.com/hotel/gr/leonidaion-guesthouse.fr.html), à recommander, appartement avec rooftop ultra clean]
 * ☀️ 21 avril
     * Olympie (visite 15 du guide p.218)
     * On a fait la visite du site avec 3 casques de réalité virtuelle de [[Olympia back in time](https://www.olympiabackintime.com/our-service.html)] , c'était sympa sans être indispensable
@@ -55,6 +55,6 @@
     * Mangé un bon sandwich chez [[Dionysos](https://www.tripadvisor.fr/Restaurant_Review-g189408-d2354567-Reviews-Dionysios_Souvlaki_Gyro_Shop-Delphi_Phocis_Region_Central_Greece.html)] 
 * 🌃 Nuit à Delphes  [[bungalow réservé](https://apolloncamping.gr/fr/), à ne pas recommander] 
 * ☀️ 23 avril
-    * 🚗 route pour Athènes (2h30-2h50), balade dans la ville
-    * être à 15h max à l'aéroport, 🚗 rendre la voiture au terminal des départs
+    * 🚗 route pour la plage d'Agios Spiridonas, à côté de Porto Rafi (2h30)
+    * être à 15h max à l'aéroport, 🚗 rendre la voiture au terminal des départs (20 minutes de route) 
     * vol à 17h
