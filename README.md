@@ -58,3 +58,17 @@
     * 🚗 route pour la plage d'Agios Spiridonas, à côté de Porto Rafi (2h30)
     * être à 15h max à l'aéroport, 🚗 rendre la voiture au terminal des départs (20 minutes de route) 
     * vol à 17h
+
+
+```geojson
+{
+    "type": "LineString",
+    "coordinates": [
+          [-90,35],
+          [-85,35],
+          [-85,30], 
+          [-90,30],
+          [-90,35]
+      ]
+}
+```
