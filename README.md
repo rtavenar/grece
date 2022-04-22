@@ -4,7 +4,7 @@
 
 * location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (100 Euros payés, restent 485 Euros, annulable)
 * Parking aéroport CDG : Parking PAB, ne pas prendre de ticket au parking mais utiliser le digicode 836387V
-
+* Guide utilisé : "Grèce, Athènes et le Peloponnese", dans la collection Guide évasion, leurs conseils tombent à chaque fois juste 
 ## Planning jour par jour 
 
 * ☀️ 13 avril
