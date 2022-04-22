@@ -49,7 +49,7 @@
 * ☀️ 22 avril
     * 🚗 route vers Delphes (2h)
     * Delphes (visite 18 du guide p.260)
-    * Mangé un bon sandwich chez [[Dionysos] (https://www.tripadvisor.fr/Restaurant_Review-g189408-d2354567-Reviews-Dionysios_Souvlaki_Gyro_Shop-Delphi_Phocis_Region_Central_Greece.html)] 
+    * Mangé un bon sandwich chez [[Dionysos](https://www.tripadvisor.fr/Restaurant_Review-g189408-d2354567-Reviews-Dionysios_Souvlaki_Gyro_Shop-Delphi_Phocis_Region_Central_Greece.html)] 
 * 🌃 Nuit à Delphes  [[bungalow réservé](https://apolloncamping.gr/fr/)], à ne pas recommander 
 * ☀️ 23 avril
     * 🚗 route pour Athènes (2h30-2h50), balade dans la ville
