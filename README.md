@@ -27,20 +27,19 @@
     * Repas du soir à Palaia Epidavros [[bon resto](https://www.tripadvisor.fr/Restaurant_Review-g815573-d8306640-Reviews-To_Perivoli_tis_Gogos-Epidavros_Argolis_Region_Peloponnese.html)]
 * 🌃 Nuit à Palaia Epidavros [[hôtel réservé (annulable)](https://www.booking.com/hotel/gr/epidavros-seascape.fr.html), piscine et terrasse avec vue mer magnifique]
 * ☀️ 16 avril
-    * 🚗 route pour Nauplie (40min)
-    * Nauplie 🚗 (25min) Mycène (visite 7 p.104) ou l'un des deux seulement
+    * 🚗 route pour Nauplie (40min), montée des marches vers le Palamidi Castle (que l'on n'a pas visité) avec très belle vue sur le port d'en haut
     * 🚗 route vers Mystra (1h40)
 * 🌃 Nuit à Mystra [[duplex dans maison d'hôtes réservé (annulable)](https://www.booking.com/hotel/gr/arxontiko-taygeti.fr.html), avec vue imprenable sur la colline de Mystra, mais le gîte est pas simple d'accès (petite route accidentée)]
 * ☀️ 17 avril
-    * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164, on est entrés à la ville basse et on a fait un parcours permettant de visiter un peu de la ville haute sur le chemin, sans reprendre la voiture)
+    * Mystra (J5 du circuit 8 jours du guide, visite 11 p.164, on est entrés à la ville basse et on a fait un parcours permettant de visiter un peu de la ville haute sur le chemin, sans reprendre la voiture, ce sont des bâtiments de l'époque Byzantine, ce qui change du reste de ce qu'on a vu en Grèce)
     * 🚗 route vers Karavostasi (1h)
-* 🌃 Nuit dans le Magne (Karavostasi) [[hôtel réservé par mail (Aude)](https://www.booking.com/hotel/gr/elixerion-elixirion.fr.html), très bon petit déjeuner]
+* 🌃 Nuit dans le Magne (Karavostasi) [[hôtel réservé par mail (Aude)](https://www.booking.com/hotel/gr/elixerion-elixirion.fr.html), très bon petit déjeuner, mais la chambre laissait à désirer]
 * ☀️ 18 avril
     * il a plu, on n'a rien fait de spécial
 * 🌃 Seconde nuit dans le Magne, au même endroit
 * ☀️ 19 avril
-    * Très belle plage à Stoupa, puis repas dans un restaurant qui borde la plage de Kalogria à recommander 🚗 route vers Bassae (2h30 de route)
-* 🌃 Nuit autour de Bassae [[hotel](https://www.booking.com/hotel/gr/petra-thea-villa-karytaina.fr.html?aid=304142;label=gen173rf-1FCAsoXEILZXVyb3BhaG90ZWxIDVgDaE2IAQGYAQ24AQfIAQ3YAQHoAQH4AQKIAgGiAgpnaXRodWIuY29tqAIDuALZkrmRBsACAdICJDcwNDgzMjIyLWMwOTEtNDA5Ny1iM2Y1LWY5NmQ0MjYxY2IwMNgCBeACAQ;sid=8fb0bb9d076ae5b5aaafb62bcfa4bd3e;checkin=2022-04-19;checkout=2022-04-20;srpvid=ab4f5552baf40028&)]
+    * Très belle plage à Stoupa, puis repas dans un [restaurant qui borde la plage de Kalogria : Almiriki](https://www.tripadvisor.fr/Restaurant_Review-g666399-d3566554-Reviews-Almyriki_Tavern-Stoupa_Messenia_Region_Peloponnese.html) à recommander 🚗 route vers Bassae (2h30 de route)
+* 🌃 Nuit autour de Bassae [[hotel](https://www.booking.com/hotel/gr/petra-thea-villa-karytaina.fr.html)]
 * ☀️ 20 avril
     * Visite du temple d'Apollon
     * 🚗 route vers Olympie (1h30 de route) avec une halte sur la plage de Kalo Nero, jolie mais ventée
