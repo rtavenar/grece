@@ -2,7 +2,7 @@
 
 ## Divers
 
-* location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (585 Euros)
+* location voiture : Opel Zafira Tourer louée auprès de Progress Car Rentals (585 Euros, très arrangeants sur les conditions : voiture déposée à l'hôtel, rendue à l'aéroport)
 * Parking aéroport CDG : Parking PAB
 * Guide utilisé : "Grèce, Athènes et le Peloponnese", dans la collection Guide évasion, leurs conseils tombent à chaque fois juste
 * Covid-19 : les contrôles les plus stricts ont été pour le vol aller et la visite du musée de l'Acropole, pour le reste, c'était très peu contraignant
