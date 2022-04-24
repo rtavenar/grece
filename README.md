@@ -63,5 +63,5 @@
     * vol à 17h
 
 
-<script src="https://embed.github.com/view/geojson/rtavenar/grece/main/locations.geojson"></script>
+<script src="https://embed.github.com/view/geojson/rtavenar/grece/main/locations.geojson?token=GHSAT0AAAAAABQF72N26GLGONFW5N4QLRWKYTFEL3A"></script>
 
