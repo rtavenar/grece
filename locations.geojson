@@ -1,14 +1,41 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-            [23.739, 37.980], 
-            [23.158, 37.639], 
-            [22.376, 37.071]
-        ],
-        "properties": {
-            "marker-size": "medium"
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [23.739, 37.980], 
+                    [23.158, 37.639], 
+                    [22.376, 37.071],
+                    [22.382, 36.698],
+                    [21.901, 37.430],
+                    [21.624, 37.645],
+                    [21.430, 38.372],
+                    [22.519, 38.492]
+                ],
+                "properties": {}
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [23.739, 37.980], 
+                    [23.158, 37.639], 
+                    [22.376, 37.071],
+                    [22.382, 36.698],
+                    [21.901, 37.430],
+                    [21.624, 37.645],
+                    [21.430, 38.372],
+                    [22.519, 38.492]
+                ],
+                "properties": {
+                    "marker-size": "small"
+                }
+            }
         }
-    }
+    ]
 }
